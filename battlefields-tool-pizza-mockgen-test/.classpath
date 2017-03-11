@@ -25,8 +25,10 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/battlefields-terrain-test"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/battlefields-wdgs"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/battlefieldsl-iso-red"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-api-scene2d"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/red-triplane-api-scene2d-io"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/rana-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/battlefields-tool-pizza-mockgen-red"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/rana-asset-red"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jfixby-tool-texture-packer-api"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
