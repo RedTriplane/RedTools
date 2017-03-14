@@ -29,9 +29,9 @@ import com.jfixby.scarabei.api.color.Colors;
 import com.jfixby.scarabei.api.debug.Debug;
 import com.jfixby.scarabei.api.desktop.ImageAWT;
 import com.jfixby.scarabei.api.file.File;
-import com.jfixby.scarabei.api.floatn.ReadOnlyFloat2;
 import com.jfixby.scarabei.api.floatn.Float2;
 import com.jfixby.scarabei.api.floatn.Float3;
+import com.jfixby.scarabei.api.floatn.ReadOnlyFloat2;
 import com.jfixby.scarabei.api.geometry.ClosedPolygonalChain;
 import com.jfixby.scarabei.api.geometry.Geometry;
 import com.jfixby.scarabei.api.geometry.PolyTriangulation;
@@ -316,14 +316,17 @@ public class RedIsoMockPaletteGenerator2 implements IsoMockPaletteGeneratorCompo
 				{
 					final SceneStructure structure = new SceneStructure();
 					final LayerElementFactory factory = new LayerElementFactory(structure);
+					structure.root = factory.newLayerElement();
 					structures.structures.addElement(structure);
 
 					structure.structure_name = tile_id.toString();
 					result.addDependency(raster_id);
 
 					final LayerElement raster_info = factory.newLayerElement();
-					;
-					structure.root.children.addElement(raster_info, structure);
+					structure//
+						.root//
+						.children//
+							.addElement(raster_info, structure);
 
 					raster_info.is_hidden = false;
 					raster_info.name = raster_id.getLastStep();
@@ -472,8 +475,8 @@ public class RedIsoMockPaletteGenerator2 implements IsoMockPaletteGeneratorCompo
 		g2.setColor(awt_color);
 	}
 
-	private void drawPoly (final Graphics g2, final Collection<? extends ReadOnlyFloat2> tile_shape, final Rectangle wrapping_frame,
-		final Rectangle image_frame) {
+	private void drawPoly (final Graphics g2, final Collection<? extends ReadOnlyFloat2> tile_shape,
+		final Rectangle wrapping_frame, final Rectangle image_frame) {
 		for (int i = 0; i < tile_shape.size(); i++) {
 
 			int j = i + 1;

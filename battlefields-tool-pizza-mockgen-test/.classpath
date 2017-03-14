@@ -7,7 +7,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/scarabei-red-desktop"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/battlefields-tool-pizza-mockgen-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/scarabei-apache-cmns"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/scarabei-red-gdx"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/battlefields-iso-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/battlefields-maze-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/battlefields-maze-red"/>
@@ -30,5 +29,15 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/battlefields-tool-pizza-mockgen-red"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/rana-asset-red"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/jfixby-tool-texture-packer-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/scarabei-api-desktop"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/scarabei-gson"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jfixby-tool-texture-bleed-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jfixby-tool-texture-bleed-red"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jfixby-tool-texture-compressor-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jfixby-tool-texture-compressor-red"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jfixby-tool-texture-packer-gdx"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jfixby-tool-texture-slicer-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jfixby-tool-texture-slicer-red"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/scarabei-red-gdx"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

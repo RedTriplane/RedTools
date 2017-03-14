@@ -3,6 +3,7 @@ package com.jfixby.r3.tools.iso.run;
 
 import java.io.IOException;
 
+import com.github.wrebecca.bleed.RebeccaTextureBleeder;
 import com.jfixby.examples.wdgs.WDGS_P18_Palette;
 import com.jfixby.examples.wdgs.WDGS_Pizza_Palette;
 import com.jfixby.r3.ext.api.patch18.P18;
@@ -17,16 +18,25 @@ import com.jfixby.r3.tools.iso.red.RedIsoMockPaletteGenerator2;
 import com.jfixby.rana.api.pkg.StandardPackageFormats;
 import com.jfixby.rana.api.pkg.fs.PackageDescriptor;
 import com.jfixby.red.engine.core.resources.PackageUtils;
+import com.jfixby.scarabei.adopted.gdx.GdxSimpleTriangulator;
+import com.jfixby.scarabei.adopted.gdx.json.GdxJson;
 import com.jfixby.scarabei.api.assets.ID;
 import com.jfixby.scarabei.api.assets.Names;
 import com.jfixby.scarabei.api.collections.Collection;
 import com.jfixby.scarabei.api.collections.Collections;
 import com.jfixby.scarabei.api.collections.List;
 import com.jfixby.scarabei.api.color.Colors;
+import com.jfixby.scarabei.api.desktop.ImageAWT;
 import com.jfixby.scarabei.api.desktop.ScarabeiDesktop;
 import com.jfixby.scarabei.api.file.File;
 import com.jfixby.scarabei.api.file.LocalFileSystem;
 import com.jfixby.scarabei.api.json.Json;
+import com.jfixby.scarabei.api.math.SimpleTriangulator;
+import com.jfixby.scarabei.red.desktop.image.RedImageAWT;
+import com.jfixby.texture.slicer.api.TextureSlicer;
+import com.jfixby.texture.slicer.red.RedTextureSlicer;
+import com.jfixby.tools.bleed.api.TextureBleed;
+import com.jfixby.tools.gdx.texturepacker.GdxTexturePacker;
 import com.jfixby.tools.gdx.texturepacker.api.AtlasPackingResult;
 import com.jfixby.tools.gdx.texturepacker.api.Packer;
 import com.jfixby.tools.gdx.texturepacker.api.TexturePacker;
@@ -47,8 +57,13 @@ public class GenareteISOMocks_WDGS {
 		P18.installComponent(new RedP18());
 		Terrain.installComponent(new RedTerrain());
 		Pizza.installComponent(new RedPizza());
-
+		SimpleTriangulator.installComponent(new GdxSimpleTriangulator());
 		Isometry.installComponent(new RedIsometry());
+		TexturePacker.installComponent(new GdxTexturePacker());
+		TextureSlicer.installComponent(new RedTextureSlicer());
+		Json.installComponent(new GdxJson());
+		TextureBleed.installComponent(new RebeccaTextureBleeder());
+		ImageAWT.installComponent(new RedImageAWT());
 		// IsoMockPaletteGenerator
 		// .installComponent(new RedIsoMockPaletteGenerator());
 		IsoMockPaletteGenerator.installComponent(new RedIsoMockPaletteGenerator2());
@@ -74,8 +89,7 @@ public class GenareteISOMocks_WDGS {
 
 		result.print();
 
-		final File bank_folder = LocalFileSystem.newFile("D:\\[DATA]\\[RED-ASSETS]\\TintoAssets\\tinto-assets")
-			.child("bank-florida");
+		final File bank_folder = LocalFileSystem.ApplicationHome().child("bank-florida");
 		bank_folder.makeFolder();
 		packScenes(result, bank_folder);
 		packRaster(result, bank_folder);
@@ -128,7 +142,6 @@ public class GenareteISOMocks_WDGS {
 		specs.setInputRasterFolder(raster);
 
 		final Packer packer = TexturePacker.newPacker(specs);
-
 		final AtlasPackingResult atlas_result = packer.pack();
 
 		atlas_result.print();
