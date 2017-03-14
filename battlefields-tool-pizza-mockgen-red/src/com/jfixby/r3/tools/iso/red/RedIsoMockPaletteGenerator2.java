@@ -317,7 +317,7 @@ public class RedIsoMockPaletteGenerator2 implements IsoMockPaletteGeneratorCompo
 					final SceneStructure structure = new SceneStructure();
 					final LayerElementFactory factory = new LayerElementFactory(structure);
 					structure.root = factory.newLayerElement();
-					structures.structures.addElement(structure);
+					structures.structures.add(structure);
 
 					structure.structure_name = tile_id.toString();
 					result.addDependency(raster_id);

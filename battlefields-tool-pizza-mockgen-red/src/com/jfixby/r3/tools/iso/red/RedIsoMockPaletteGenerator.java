@@ -27,9 +27,9 @@ import com.jfixby.scarabei.api.collections.Set;
 import com.jfixby.scarabei.api.debug.Debug;
 import com.jfixby.scarabei.api.desktop.ImageAWT;
 import com.jfixby.scarabei.api.file.File;
-import com.jfixby.scarabei.api.floatn.ReadOnlyFloat2;
 import com.jfixby.scarabei.api.floatn.Float2;
 import com.jfixby.scarabei.api.floatn.Float3;
+import com.jfixby.scarabei.api.floatn.ReadOnlyFloat2;
 import com.jfixby.scarabei.api.geometry.ClosedPolygonalChain;
 import com.jfixby.scarabei.api.geometry.Geometry;
 import com.jfixby.scarabei.api.geometry.PolyTriangulation;
@@ -250,8 +250,8 @@ public class RedIsoMockPaletteGenerator implements IsoMockPaletteGeneratorCompon
 	private void fill (final BufferedImage img, final Patch18 p18, final double pixels_to_tile_meter,
 		final Rectangle wrapping_frame, final int padding, final Mapping<Fabric, com.jfixby.scarabei.api.color.Color> colors,
 		final FabricsRelation relation, final IsoTransform isometry, final TerrainType element,
-		final Mapping<FabricsRelation, Float2> centers, final Set<Patch18> unprocessed, final ID tile_id,
-		final ID raster_id, final Scene2DPackage structures) {
+		final Mapping<FabricsRelation, Float2> centers, final Set<Patch18> unprocessed, final ID tile_id, final ID raster_id,
+		final Scene2DPackage structures) {
 
 		final Rectangle image_frame = Geometry.newRectangle();
 		image_frame.setSize(wrapping_frame.getWidth() * pixels_to_tile_meter, wrapping_frame.getHeight() * pixels_to_tile_meter);
@@ -260,7 +260,7 @@ public class RedIsoMockPaletteGenerator implements IsoMockPaletteGeneratorCompon
 		{
 			final SceneStructure structure = new SceneStructure();
 			final LayerElementFactory factory = new LayerElementFactory(structure);
-			structures.structures.addElement(structure);
+			structures.structures.add(structure);
 
 			structure.structure_name = tile_id.toString();
 

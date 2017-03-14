@@ -30,6 +30,8 @@ import com.jfixby.scarabei.api.desktop.ImageAWT;
 import com.jfixby.scarabei.api.desktop.ScarabeiDesktop;
 import com.jfixby.scarabei.api.file.File;
 import com.jfixby.scarabei.api.file.LocalFileSystem;
+import com.jfixby.scarabei.api.io.IO;
+import com.jfixby.scarabei.api.java.ByteArray;
 import com.jfixby.scarabei.api.json.Json;
 import com.jfixby.scarabei.api.math.SimpleTriangulator;
 import com.jfixby.scarabei.red.desktop.image.RedImageAWT;
@@ -116,8 +118,8 @@ public class GenareteISOMocks_WDGS {
 			packed.add(asset_id);
 		}
 
-		final String data = Json.serializeToString(struct).toString();
-		package_root_file.writeString(data);
+		final ByteArray data = IO.serialize(struct);
+		package_root_file.writeBytes(data);
 
 		PackageUtils.producePackageDescriptor(package_folder, Scene2DPackage.SCENE2D_PACKAGE_FORMAT, "1.0", packed, dependencies,
 			file_name);
