@@ -53,6 +53,8 @@ import com.jfixby.utl.pizza.red.RedPizza;
 
 public class GenareteISOMocks_WDGS {
 
+	private static final String TARGE_BANK_FOLDER_PATH = "D:/[DEV]/[GIT]/StarCraft/sc-assets/assets/com.jfixby.sc.assets.local/tank-0";
+
 	public static void main (final String[] args) throws IOException {
 		ScarabeiDesktop.deploy();
 		P18Terrain.installComponent(new RedP18Terrain());
@@ -91,7 +93,7 @@ public class GenareteISOMocks_WDGS {
 
 		result.print();
 
-		final File bank_folder = LocalFileSystem.ApplicationHome().child("bank-florida");
+		final File bank_folder = LocalFileSystem.newFile(TARGE_BANK_FOLDER_PATH);
 		bank_folder.makeFolder();
 		packScenes(result, bank_folder);
 		packRaster(result, bank_folder);

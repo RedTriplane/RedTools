@@ -24,10 +24,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.RightBottom.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -56,10 +56,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.RightLeft.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -88,10 +88,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.BottomLeft.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -120,10 +120,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.TopBottom.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -152,10 +152,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.Blocked.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -184,10 +184,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.BottomTop.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -216,10 +216,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.TopRight.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -248,10 +248,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.LeftRight.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -280,10 +280,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.LeftTop.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -312,10 +312,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.BottomRight.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -344,10 +344,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.LeftBottom.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -376,10 +376,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.Free.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -408,10 +408,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.RightTop.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -440,10 +440,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.TopLeft.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -472,10 +472,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.BridgeLeft.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -504,10 +504,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.BridgeRight.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -536,10 +536,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.ERR.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -568,10 +568,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.dirt-on-water.Irrelevant.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4973755311161732,
-					"width":131,
-					"height":130,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5049204972675009,
+					"width":555,
+					"height":466,
 					"children":{}
 				}
 			}
@@ -600,10 +600,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.RightBottom.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -632,10 +632,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.RightLeft.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -664,10 +664,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.BottomLeft.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -696,10 +696,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.TopBottom.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -728,10 +728,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.Blocked.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -760,10 +760,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.BottomTop.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -792,10 +792,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.TopRight.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -824,10 +824,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.LeftRight.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -856,10 +856,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.LeftTop.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -888,10 +888,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.BottomRight.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -920,10 +920,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.LeftBottom.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -952,10 +952,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.Free.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -984,10 +984,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.RightTop.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -1016,10 +1016,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.TopLeft.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -1048,10 +1048,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.BridgeLeft.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -1080,10 +1080,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.BridgeRight.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -1112,10 +1112,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.ERR.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -1144,10 +1144,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.grass-on-dirt.Irrelevant.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4966322064511643,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531534,
+					"origin_relative_y":0.5952507925029042,
+					"width":555,
+					"height":570,
 					"children":{}
 				}
 			}
@@ -1176,10 +1176,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.RightBottom.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
@@ -1208,10 +1208,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.RightLeft.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
@@ -1240,10 +1240,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.BottomLeft.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
@@ -1272,10 +1272,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.TopBottom.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
@@ -1304,10 +1304,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.Blocked.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
@@ -1336,10 +1336,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.BottomTop.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
@@ -1368,10 +1368,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.TopRight.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
@@ -1400,10 +1400,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.LeftRight.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
@@ -1432,10 +1432,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.LeftTop.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
@@ -1464,10 +1464,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.BottomRight.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
@@ -1496,10 +1496,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.LeftBottom.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
@@ -1528,10 +1528,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.Free.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
@@ -1560,10 +1560,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.RightTop.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
@@ -1592,10 +1592,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.TopLeft.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
@@ -1624,10 +1624,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.BridgeLeft.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
@@ -1656,10 +1656,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.BridgeRight.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
@@ -1688,10 +1688,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.ERR.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
@@ -1720,10 +1720,10 @@
 					"is_raster":true,
 					"name":"mock",
 					"raster_id":"com.jfixby.r3.iso.test.wdgs.snow-on-grass.Irrelevant.var.01.raster.mock",
-					"origin_relative_x":0.48854961832061067,
-					"origin_relative_y":0.4996856415656681,
-					"width":131,
-					"height":131,
+					"origin_relative_x":0.11531531531531537,
+					"origin_relative_y":0.6577046761523079,
+					"width":555,
+					"height":674,
 					"children":{}
 				}
 			}
